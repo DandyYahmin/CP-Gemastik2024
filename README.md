@@ -1,7 +1,7 @@
 
 # COMPETITIVE PROGRAMMING GEMASTIK 2024
 
-### Authors
+## Authors
 
 - [@DandyYahmin](https://github.com/DandyYahmin)
 
@@ -19,14 +19,20 @@
 #### Question 1
 
 Q: Why hasn't the [E] Fimoracci Sequence problem been solved yet?
+
 A: Because I haven't figured out the algorithm for it yet.
 
+#### Question 2
 
+Q: Have you tested it against other test cases?
 
+A: I have only tested it according to the input and output provided in the   PDF module.
 
+#### Question 3
 
-
-### License
+Q: Does the compile time match what is stated in the PDF module?
+A: I don't know; I don't have a tool to measure the compile time.
+## License
 
 End User License Agreement (EULA)
 
