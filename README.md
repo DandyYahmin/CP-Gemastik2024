@@ -31,6 +31,7 @@ A: I have only tested it according to the input and output provided in the   PDF
 #### Question 3
 
 Q: Does the compile time match what is stated in the PDF module?
+
 A: I don't know; I don't have a tool to measure the compile time.
 ## License
 
